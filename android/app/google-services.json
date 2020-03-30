@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "801171291841",
+    "firebase_url": "https://coronavirus-help-33239.firebaseio.com",
+    "project_id": "coronavirus-help-33239",
+    "storage_bucket": "coronavirus-help-33239.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:801171291841:android:68133dfc7775ffaa405e40",
+        "android_client_info": {
+          "package_name": "com.coronahelp.help"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "801171291841-k9eo2r6pl7dbtkueecs4hpg3kpa5vvnb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA__bdv71RIqL793ssiw-ufXtZvA_Wc4ww"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "801171291841-k9eo2r6pl7dbtkueecs4hpg3kpa5vvnb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "801171291841-8vi0kot1kh8pp0o26l11ccjl6tv80sic.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.coronavirushelp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:801171291841:android:64355d10380da90e405e40",
+        "android_client_info": {
+          "package_name": "com.coronavirushelp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "801171291841-k9eo2r6pl7dbtkueecs4hpg3kpa5vvnb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA__bdv71RIqL793ssiw-ufXtZvA_Wc4ww"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "801171291841-k9eo2r6pl7dbtkueecs4hpg3kpa5vvnb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "801171291841-8vi0kot1kh8pp0o26l11ccjl6tv80sic.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.coronavirushelp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
